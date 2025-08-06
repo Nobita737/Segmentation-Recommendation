@@ -52,22 +52,22 @@ Based on data and after analysing, users were divided into various categories su
 
 ### Dashboard (Analytics)
 
-![1](images/1.png)
-![2](images/2.png)
-![3](images/3.png)
-![4](images/4.png)
-![5](images/5.png)
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
 
 ### Prediction (Performance and User Category)
 
-![pred1](images/6.png)
-![pred2](images/7.png)
-![pred3](images/8.png)
+![pred1](6.png)
+![pred2](7.png)
+![pred3](8.png)
 
 ### Recommendations
 
-![recom](images/10.png)
-![recom](images/9.png)
+![recom](10.png)
+![recom](9.png)
 
 ### Configure Project
 
