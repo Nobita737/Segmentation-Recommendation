@@ -21,7 +21,7 @@ Based on data and after analysing, users were divided into various categories su
 
 ### Technical Architecture
 
-![Architecture](images/11.png)
+![Architecture](11.png)
 
 ### Technology Stack
 
